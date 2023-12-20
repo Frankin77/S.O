@@ -1,0 +1,18 @@
+### Comando para el fondo de pantalla
+
+gsettings set org.gnome.desktop.background picture-uri file:///home/admin_sigra/Fondosigra.png
+
+
+#######
+Pidgin
+flatpak run im.pidgin.Pidgin
+
+#####
+Duplicati
+
+duplicati-server
+
+######
+Flameshot-Screenshot
+
+flameshot
